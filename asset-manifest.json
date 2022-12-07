@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/app-gh-pages/static/css/main.f7920ac3.css",
-    "main.js": "/app-gh-pages/static/js/main.cb89a2e6.js",
+    "main.js": "/app-gh-pages/static/js/main.5bebe51e.js",
     "static/css/670.0d20f680.chunk.css": "/app-gh-pages/static/css/670.0d20f680.chunk.css",
     "static/js/670.65cf6ffd.chunk.js": "/app-gh-pages/static/js/670.65cf6ffd.chunk.js",
     "static/js/787.cfc36e21.chunk.js": "/app-gh-pages/static/js/787.cfc36e21.chunk.js",
@@ -9,13 +9,13 @@
     "index.html": "/app-gh-pages/index.html",
     "static/media/loader.svg": "/app-gh-pages/static/media/loader.39d70bc07781464a6ca0f36a9e54c09b.svg",
     "main.f7920ac3.css.map": "/app-gh-pages/static/css/main.f7920ac3.css.map",
-    "main.cb89a2e6.js.map": "/app-gh-pages/static/js/main.cb89a2e6.js.map",
+    "main.5bebe51e.js.map": "/app-gh-pages/static/js/main.5bebe51e.js.map",
     "670.0d20f680.chunk.css.map": "/app-gh-pages/static/css/670.0d20f680.chunk.css.map",
     "670.65cf6ffd.chunk.js.map": "/app-gh-pages/static/js/670.65cf6ffd.chunk.js.map",
     "787.cfc36e21.chunk.js.map": "/app-gh-pages/static/js/787.cfc36e21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7920ac3.css",
-    "static/js/main.cb89a2e6.js"
+    "static/js/main.5bebe51e.js"
   ]
 }
