@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  max-width: 1920px;
+  min-width: 320px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#root {
+  height: 100%;
+}
+
+.appWrapper {
+  height: 100%;
+}
